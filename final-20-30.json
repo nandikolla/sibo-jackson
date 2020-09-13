@@ -1,0 +1,3172 @@
+{
+  "ts": 1599955343,
+  "count": 23,
+  "files": [
+    {
+      "width": 282,
+      "height": 400,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_b19f83ce6dcd4dc1a5afc190cc87822a~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Dress",
+        "Day dress",
+        "Aqua",
+        "Blue",
+        "Turquoise",
+        "Cocktail dress",
+        "Sleeve",
+        "Neck",
+        "Sheath dress"
+      ],
+      "refs": [
+
+      ],
+      "hash": "78f1306ae3aaed37cf478e1557704277",
+      "original_file_name": "20 final 23.jpg",
+      "file_size": 8521,
+      "icon_url": "media/59a7b9_b19f83ce6dcd4dc1a5afc190cc87822a~mv2.jpg",
+      "file_url": "media/59a7b9_b19f83ce6dcd4dc1a5afc190cc87822a~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhbphRLgieV0AEgwRAjxnU7LTOdlF6CdmEG4Rt93Af5Lg5YWlotb6fHNUVwH3pB3syix0LNzKyXaAJBRr17MpxP_3HJy_8nAtQGcpj1mKwlac4F7UMLMJxfeOcKRDe6B3p66jAGft-4dFb0ol2mbsT04juPHVwVmraPEIBz9zR1SnN3ZPg95lqIzGZFUcZ0I6Kb-v8__5dFJTnxWimMjMZzSLmyRX8oZVyNaCvIUUS0Ev_9IDYSJgk4_Hi92twNpmtJcxr0wEHRJJKG_HpssCDFF0woIEM5fLsfsWjaf3Ro8mU4Nv7pSvQTt2mBQi8etQTy-SqPQF3Wo4GeqRjMyiAJXC6BhD-PELWyeMLWqH733Mw",
+      "created_ts": 1599926049,
+      "modified_ts": 1599926049,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 230,
+            "g": 233,
+            "r": 224
+          },
+          {
+            "b": 146,
+            "g": 168,
+            "r": 206
+          },
+          {
+            "b": 86,
+            "g": 117,
+            "r": 156
+          },
+          {
+            "b": 171,
+            "g": 190,
+            "r": 221
+          },
+          {
+            "b": 206,
+            "g": 202,
+            "r": 171
+          },
+          {
+            "b": 181,
+            "g": 179,
+            "r": 145
+          },
+          {
+            "b": 166,
+            "g": 171,
+            "r": 192
+          },
+          {
+            "b": 116,
+            "g": 124,
+            "r": 150
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Dress",
+            "score": 0.9744145274162292
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9579205513000488
+          },
+          {
+            "description": "Aqua",
+            "score": 0.9455189108848572
+          },
+          {
+            "description": "Blue",
+            "score": 0.9118428230285645
+          },
+          {
+            "description": "Turquoise",
+            "score": 0.8704094290733337
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.8681204319000244
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.7903982400894165
+          },
+          {
+            "description": "Neck",
+            "score": 0.7371683716773987
+          },
+          {
+            "description": "Sheath dress",
+            "score": 0.7293575406074524
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 216,
+            "g": 222,
+            "r": 218
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 300,
+      "height": 450,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_beec16841f364078beac92714af991b4~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Fashion model",
+        "Pink",
+        "Dress",
+        "Magenta",
+        "Fashion",
+        "Shoulder",
+        "Outerwear",
+        "Formal wear",
+        "Cocktail dress"
+      ],
+      "refs": [
+
+      ],
+      "hash": "077e12e107b0a28f644463179dbfd06e",
+      "original_file_name": "20 final 22.jpg",
+      "file_size": 10359,
+      "icon_url": "media/59a7b9_beec16841f364078beac92714af991b4~mv2.jpg",
+      "file_url": "media/59a7b9_beec16841f364078beac92714af991b4~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhZdBUNB43prTvZZVIR2Te8WeY1H7yd2pPDI1TXPeu3XsA09gJ9JXSUmCA_QuN03H0a3GkRJ6CvvzkHWIrqFpG3w2RaeG8LrFLaQrcWRFMXyiOVO3PiUW2dZswkT3d18IU-xZnC2sFTcERRImEsKkjW53mloW2waCaDjK4hS6KRnMMQwY-HySgfJYd9lmbwianTugK3noLSVmnuLQCYAjcPSsknb8qVfCPLod-UAxRWIwldzPC_dq1tY-Xl1tQn0fBSizA5YLKYSPtsCl5Gk2WQxUkBZJ3CnhJGTlzoRucwJwHUiWLUfO4n-fq0lb-2kRC8iEFiRMcCobwjpNxJaKAFkqUnBFKZgKeUYfWMGKHmKEA",
+      "created_ts": 1599926047,
+      "modified_ts": 1599926047,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 169,
+            "g": 169,
+            "r": 169
+          },
+          {
+            "b": 55,
+            "g": 20,
+            "r": 153
+          },
+          {
+            "b": 22,
+            "g": 21,
+            "r": 33
+          },
+          {
+            "b": 85,
+            "g": 36,
+            "r": 186
+          },
+          {
+            "b": 104,
+            "g": 120,
+            "r": 163
+          },
+          {
+            "b": 171,
+            "g": 167,
+            "r": 215
+          },
+          {
+            "b": 91,
+            "g": 92,
+            "r": 108
+          },
+          {
+            "b": 129,
+            "g": 107,
+            "r": 178
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.963410496711731,
+            "height": 71,
+            "width": 50,
+            "x": 129,
+            "y": 15
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9752726554870605
+          },
+          {
+            "description": "Pink",
+            "score": 0.9380224943161011
+          },
+          {
+            "description": "Dress",
+            "score": 0.9333906173706055
+          },
+          {
+            "description": "Magenta",
+            "score": 0.8943072557449341
+          },
+          {
+            "description": "Fashion",
+            "score": 0.8909249305725098
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.873346209526062
+          },
+          {
+            "description": "Outerwear",
+            "score": 0.8673641085624695
+          },
+          {
+            "description": "Formal wear",
+            "score": 0.8665592074394226
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.8644478917121887
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 167,
+            "g": 167,
+            "r": 170
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 667,
+      "height": 1000,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_6221034f6a3f41a088e9f089efdb495a~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Shoulder",
+        "Pajamas",
+        "Nightwear",
+        "Fashion",
+        "Sleeve",
+        "Fashion model",
+        "Joint",
+        "Neck",
+        "Leg"
+      ],
+      "refs": [
+
+      ],
+      "hash": "b82a90af6b0d80ac8212693e245b161a",
+      "original_file_name": "20 final 21.jpg",
+      "file_size": 37697,
+      "icon_url": "media/59a7b9_6221034f6a3f41a088e9f089efdb495a~mv2.jpg",
+      "file_url": "media/59a7b9_6221034f6a3f41a088e9f089efdb495a~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/Ahbsgcj-fUlYOrtvLr3fwtSU0s3bkz4jVPD7u7dQHcsKdkXKVQybwronrYhLL6FWb0eLm0iMOi1P4XWm4DAtkAU7yDol-oFQ8Zjmdm7JoYg_54JnUiTyVgVTZXLKDCHMcBMD_HKQphA-K1SqBhAiTMeaC6y9WusAU8U7zcUM-acHxNrhabepQY8CWiVcqHdxGkSkCkr__HY2dyAj87ZdzOdA0gEjJ8TGVf-EKUksn6RnIZm-Bq4J8bzHTFFtD9UV1xi_X71-9d2VO4Hc3s68SDBbWPRbvPV5w4GVpPbYDeKcxq6yMBTqqF_vJ3agJIKRTlfxLzKl-wO1bAvV_V0P6OJt_FJ41TP8tDtEDbPSxxvdAA",
+      "created_ts": 1599926045,
+      "modified_ts": 1599926045,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 224,
+            "g": 220,
+            "r": 220
+          },
+          {
+            "b": 65,
+            "g": 63,
+            "r": 69
+          },
+          {
+            "b": 157,
+            "g": 148,
+            "r": 141
+          },
+          {
+            "b": 188,
+            "g": 179,
+            "r": 171
+          },
+          {
+            "b": 79,
+            "g": 87,
+            "r": 121
+          },
+          {
+            "b": 101,
+            "g": 113,
+            "r": 147
+          },
+          {
+            "b": 137,
+            "g": 146,
+            "r": 187
+          },
+          {
+            "b": 158,
+            "g": 172,
+            "r": 210
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9999710321426392,
+            "height": 149,
+            "width": 107,
+            "x": 275,
+            "y": 25
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.928443968296051
+          },
+          {
+            "description": "Pajamas",
+            "score": 0.8589231967926025
+          },
+          {
+            "description": "Nightwear",
+            "score": 0.8466758728027344
+          },
+          {
+            "description": "Fashion",
+            "score": 0.8364580273628235
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.8294028043746948
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.8148596286773682
+          },
+          {
+            "description": "Joint",
+            "score": 0.8023731708526611
+          },
+          {
+            "description": "Neck",
+            "score": 0.7793864011764526
+          },
+          {
+            "description": "Leg",
+            "score": 0.733493447303772
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 218,
+            "g": 213,
+            "r": 212
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 653,
+      "height": 850,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_1b4b4dba26eb450392ff79f2871db2af~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Green",
+        "Outerwear",
+        "Sleeve",
+        "Standing",
+        "Fashion model",
+        "Waist",
+        "Fashion",
+        "Pantsuit",
+        "Neck"
+      ],
+      "refs": [
+
+      ],
+      "hash": "d97dff13bbf04c72c36bb55dd05dcd8c",
+      "original_file_name": "20 final 18.jpg",
+      "file_size": 31450,
+      "icon_url": "media/59a7b9_1b4b4dba26eb450392ff79f2871db2af~mv2.jpg",
+      "file_url": "media/59a7b9_1b4b4dba26eb450392ff79f2871db2af~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhaT53RFCUIxV2VFONZNXAY_MwDryM4Vx1LpKp5fO3q_E2ByRphyLND0B3EyHIGnJi_COMcaZ95QsqG9-YXicM2D7sA0XNuwSRycmDS8ZmNzVo_x89UyY9D0osNUV5659FRrov6sicWsPdz2946GgrB9BHMSbTsIrzFEP7c1vaTC8me0AseQeM_2rZ26Qsx01VgsK_QkkNnTFeUeS24xy4LqLVhlnG6VRbNfmbSnhgERs6BCltWo3n3R7UhBQILCHmp63jCEppUmO_v9EwUNFokaMhmKjDEXhwIve5dgkbTXBa79DUoviZrR4gvxmO1SWvU9w_3eMWzVo8YgOKQa9BrK_bF-Cochew7V2wL5lhGsPg",
+      "created_ts": 1599926039,
+      "modified_ts": 1599926039,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 62,
+            "g": 71,
+            "r": 37
+          },
+          {
+            "b": 237,
+            "g": 240,
+            "r": 240
+          },
+          {
+            "b": 91,
+            "g": 103,
+            "r": 148
+          },
+          {
+            "b": 139,
+            "g": 158,
+            "r": 205
+          },
+          {
+            "b": 111,
+            "g": 134,
+            "r": 184
+          },
+          {
+            "b": 149,
+            "g": 154,
+            "r": 155
+          },
+          {
+            "b": 158,
+            "g": 183,
+            "r": 227
+          },
+          {
+            "b": 134,
+            "g": 148,
+            "r": 116
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9995331764221191,
+            "height": 118,
+            "width": 97,
+            "x": 377,
+            "y": 0
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Green",
+            "score": 0.9544487595558167
+          },
+          {
+            "description": "Outerwear",
+            "score": 0.857380211353302
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.8398886919021606
+          },
+          {
+            "description": "Standing",
+            "score": 0.8280285000801086
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.8148596286773682
+          },
+          {
+            "description": "Waist",
+            "score": 0.8013196587562561
+          },
+          {
+            "description": "Fashion",
+            "score": 0.7771079540252686
+          },
+          {
+            "description": "Pantsuit",
+            "score": 0.7766051888465881
+          },
+          {
+            "description": "Neck",
+            "score": 0.7371683716773987
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 62,
+            "g": 71,
+            "r": 37
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 683,
+      "height": 1024,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_ad0abc686c5c475ab0d1039e4495b2f2~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Outerwear",
+        "Beige",
+        "Blazer",
+        "Shoulder",
+        "Sleeve",
+        "Neck",
+        "Jacket",
+        "Suit",
+        "Top"
+      ],
+      "refs": [
+
+      ],
+      "hash": "e03044e78ba36d5529a6aab0a401e415",
+      "original_file_name": "20 final 20.jpg",
+      "file_size": 29794,
+      "icon_url": "media/59a7b9_ad0abc686c5c475ab0d1039e4495b2f2~mv2.jpg",
+      "file_url": "media/59a7b9_ad0abc686c5c475ab0d1039e4495b2f2~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhYXCCuVHEmNpS1qUEsSP60eg1foHikSsByRgp_1XghR16zI4dm0YktfQMe7OD0pj6O8Ow-najQo5qDbgsMZNJoS-fWoqqUpQj-sFpIufrwyS2fxkrJsMrulZUUNNXYvoiaGC6jhcAgDQ-K1U-2xQwjowrlgVtqxLta7fNlww5Dlj1vq3SfrONz4_S-UoAEWjmvZ0-uQllSrsCqni2pKPbF-lLFqDrX-42MkYeoN7GNwG6PnyMEGfRER133isGif654g69wOmfR73LVuWtqTXqQU8R9ALw7eeEy_ersTuKMJd0A5qpVmeq3DiTDzPL21Qp4PeO0e33TvXoR35EUEBQ45H9VSkB1QzxjV75OP26l19A",
+      "created_ts": 1599926039,
+      "modified_ts": 1599926039,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 231,
+            "g": 235,
+            "r": 240
+          },
+          {
+            "b": 29,
+            "g": 34,
+            "r": 49
+          },
+          {
+            "b": 67,
+            "g": 94,
+            "r": 153
+          },
+          {
+            "b": 95,
+            "g": 131,
+            "r": 190
+          },
+          {
+            "b": 129,
+            "g": 151,
+            "r": 191
+          },
+          {
+            "b": 153,
+            "g": 178,
+            "r": 216
+          },
+          {
+            "b": 179,
+            "g": 192,
+            "r": 213
+          },
+          {
+            "b": 172,
+            "g": 172,
+            "r": 172
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9965780377388,
+            "height": 162,
+            "width": 116,
+            "x": 269,
+            "y": 13
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Outerwear",
+            "score": 0.9027040600776672
+          },
+          {
+            "description": "Beige",
+            "score": 0.8791172504425049
+          },
+          {
+            "description": "Blazer",
+            "score": 0.8668032288551331
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.8566734790802002
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.835365891456604
+          },
+          {
+            "description": "Neck",
+            "score": 0.8132049441337585
+          },
+          {
+            "description": "Jacket",
+            "score": 0.8053195476531982
+          },
+          {
+            "description": "Suit",
+            "score": 0.7208877205848694
+          },
+          {
+            "description": "Top",
+            "score": 0.7104397416114807
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 230,
+            "g": 234,
+            "r": 240
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 683,
+      "height": 1024,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_4a3b6b5fb5be45adb412d5eaba6ceec2~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Shoulder",
+        "Dress",
+        "Blue",
+        "Cocktail dress",
+        "Aqua",
+        "Fashion model",
+        "Joint",
+        "Fashion",
+        "Photo shoot"
+      ],
+      "refs": [
+
+      ],
+      "hash": "7e1eec08e8458d346d2a8d89a9f96abe",
+      "original_file_name": "20 final 16.jpg",
+      "file_size": 31551,
+      "icon_url": "media/59a7b9_4a3b6b5fb5be45adb412d5eaba6ceec2~mv2.jpg",
+      "file_url": "media/59a7b9_4a3b6b5fb5be45adb412d5eaba6ceec2~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhZgIlPN8-os64UKzwgW8804jr9x75Xa3ds1rf-Vhv-pCla_q4w1LFQ9b3SHCpRYrDrSFSs-Zz_kml9ObWSTkt_cimp5Dsai8j-otnXNdbyaQQq6lB3AIBuyT778rvCJNgxjs0V0-kRD7sAq15Yi1CMoQ6YBozIXawnO1BjpJtnnCfYPFF2bPisijR1PVVYltYg89G50CP_g9Jsi_-XGJSij-BmN7LXEAdDw-OPJ_ihHpT0uDSN8KmoO_iMy5J2LiFTzUxI4GGb4MTb7lxGeFR8l3die8YLCsJKRnF_4bmefMoquEK-J5DFm31aJH9ytB13E9jLehaFJ_OEM8aiNX4-uRPIGzdMgDTYbZJ82XDXoWA",
+      "created_ts": 1599926037,
+      "modified_ts": 1599926037,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 52,
+            "g": 56,
+            "r": 78
+          },
+          {
+            "b": 243,
+            "g": 240,
+            "r": 241
+          },
+          {
+            "b": 83,
+            "g": 100,
+            "r": 146
+          },
+          {
+            "b": 109,
+            "g": 136,
+            "r": 193
+          },
+          {
+            "b": 136,
+            "g": 162,
+            "r": 214
+          },
+          {
+            "b": 207,
+            "g": 178,
+            "r": 158
+          },
+          {
+            "b": 244,
+            "g": 216,
+            "r": 194
+          },
+          {
+            "b": 158,
+            "g": 192,
+            "r": 241
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9929446578025818,
+            "height": 157,
+            "width": 111,
+            "x": 308,
+            "y": 9
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9773743152618408
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.9680857062339783
+          },
+          {
+            "description": "Dress",
+            "score": 0.95691978931427
+          },
+          {
+            "description": "Blue",
+            "score": 0.9543808102607727
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.9194108843803406
+          },
+          {
+            "description": "Aqua",
+            "score": 0.9093233346939087
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9059039354324341
+          },
+          {
+            "description": "Joint",
+            "score": 0.8785194754600525
+          },
+          {
+            "description": "Fashion",
+            "score": 0.8326047658920288
+          },
+          {
+            "description": "Photo shoot",
+            "score": 0.8191500306129456
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 235,
+            "g": 233,
+            "r": 235
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 749,
+      "height": 975,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_ae43d33f0a7442cc94b7e4e9ea20a266~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Blue",
+        "Aqua",
+        "Suit",
+        "Turquoise",
+        "Green",
+        "Blazer",
+        "Outerwear",
+        "Electric blue",
+        "Cobalt blue"
+      ],
+      "refs": [
+
+      ],
+      "hash": "093cef66cf60caf3bc8cba9398d0eeef",
+      "original_file_name": "20 final 19.jpg",
+      "file_size": 33974,
+      "icon_url": "media/59a7b9_ae43d33f0a7442cc94b7e4e9ea20a266~mv2.jpg",
+      "file_url": "media/59a7b9_ae43d33f0a7442cc94b7e4e9ea20a266~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhYKCzbenRpqPki0Z4P7PC2KatfJ7cKAZI3NtABFeONtjfjG9ztJ4Nj5AM1W_Z4Ya7Mu7TTGFNrh929i32MXGCfL9_1BcYUmVuWhe2k41dUGyIjq03gfiXiQo4f0sl7UoIHiICa5btrHZOcDd6BLver07y4TYGIaPcCCP3X9iKJaZgTgpFmLw8fvffJv6S5An6uXAcSOWqcrvAEZKFpZqTjhq2fAoNvYaOUcB2rlIbN8oH9WwvC9K5svRwjH4QXDZe3qpcdQw6KWawQnlOE_ZJV2P0lCOUecggZ6t0nuDDhSNf8jQKIpn0OfrakIIIIeQTFNW1smTVDoRREV99AOrAekNGALSY5BrPJwGw2yPgaXrg",
+      "created_ts": 1599926035,
+      "modified_ts": 1599926035,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 216,
+            "g": 213,
+            "r": 7
+          },
+          {
+            "b": 245,
+            "g": 247,
+            "r": 247
+          },
+          {
+            "b": 33,
+            "g": 34,
+            "r": 36
+          },
+          {
+            "b": 108,
+            "g": 142,
+            "r": 193
+          },
+          {
+            "b": 85,
+            "g": 105,
+            "r": 145
+          },
+          {
+            "b": 137,
+            "g": 165,
+            "r": 212
+          },
+          {
+            "b": 152,
+            "g": 186,
+            "r": 232
+          },
+          {
+            "b": 172,
+            "g": 177,
+            "r": 153
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9984305500984192,
+            "height": 148,
+            "width": 108,
+            "x": 363,
+            "y": 0
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Blue",
+            "score": 0.9681704044342041
+          },
+          {
+            "description": "Aqua",
+            "score": 0.9480272531509399
+          },
+          {
+            "description": "Suit",
+            "score": 0.9389793276786804
+          },
+          {
+            "description": "Turquoise",
+            "score": 0.936705470085144
+          },
+          {
+            "description": "Green",
+            "score": 0.9354104399681091
+          },
+          {
+            "description": "Blazer",
+            "score": 0.9332308173179626
+          },
+          {
+            "description": "Outerwear",
+            "score": 0.9232625365257263
+          },
+          {
+            "description": "Electric blue",
+            "score": 0.9017351269721985
+          },
+          {
+            "description": "Cobalt blue",
+            "score": 0.8978431224822998
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 240,
+            "g": 243,
+            "r": 245
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 598,
+      "height": 1024,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_8855ef92a3d3482e8d96b44a1850cb38~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Fashion model",
+        "Shoulder",
+        "Yellow",
+        "Dress",
+        "Joint",
+        "Fashion",
+        "Footwear",
+        "Cocktail dress",
+        "Fashion design"
+      ],
+      "refs": [
+
+      ],
+      "hash": "e4ca4289f15aed4e24e5d2b0612d53b0",
+      "original_file_name": "20 final 17.jpg",
+      "file_size": 54413,
+      "icon_url": "media/59a7b9_8855ef92a3d3482e8d96b44a1850cb38~mv2.jpg",
+      "file_url": "media/59a7b9_8855ef92a3d3482e8d96b44a1850cb38~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhaDa3dQrXzLycsulL1mW45_DG8Zve1E0ejgDfVACt63Zu-cUopJN3Zz5gj7rnm9TFzWOHfSGhlpb2rQlueNbY0rzIPgY4Ee1vnRzCFn3hmZkLYwJ1ebQa20doVsy9QMXSNIiVwzDXf-XCb7R1yKOfI5d_0SZQ4ZFjj9iiO2_nQ2_6uUEpWRILz5JnEQVV43_bYs6ejwfGwiobzIFPUUzXG8ecwNgSpgwDIhC1JJedxKxkWuw6jW8Iv0Kard-u5J1I2zyhTtjQBGMCV7MHGW2Za2E-CSxJleyCnw2LRnoK5pdNwivFBPydLhjSbiwErTePp1DSIPQ3KI8r97CZ0MIyj5eVRbtALZUf7aXdlIEx-39A",
+      "created_ts": 1599926033,
+      "modified_ts": 1599926033,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 130,
+            "g": 155,
+            "r": 167
+          },
+          {
+            "b": 27,
+            "g": 40,
+            "r": 51
+          },
+          {
+            "b": 40,
+            "g": 108,
+            "r": 143
+          },
+          {
+            "b": 31,
+            "g": 60,
+            "r": 97
+          },
+          {
+            "b": 80,
+            "g": 96,
+            "r": 104
+          },
+          {
+            "b": 189,
+            "g": 190,
+            "r": 195
+          },
+          {
+            "b": 96,
+            "g": 186,
+            "r": 213
+          },
+          {
+            "b": 160,
+            "g": 208,
+            "r": 228
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.999871015548706,
+            "height": 164,
+            "width": 117,
+            "x": 185,
+            "y": 50
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9824311137199402
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.976977527141571
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.9698047041893005
+          },
+          {
+            "description": "Yellow",
+            "score": 0.9661164879798889
+          },
+          {
+            "description": "Dress",
+            "score": 0.9139050245285034
+          },
+          {
+            "description": "Joint",
+            "score": 0.9010852575302124
+          },
+          {
+            "description": "Fashion",
+            "score": 0.898161768913269
+          },
+          {
+            "description": "Footwear",
+            "score": 0.8777049779891968
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.8196879625320435
+          },
+          {
+            "description": "Fashion design",
+            "score": 0.8060575127601624
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 127,
+            "g": 152,
+            "r": 164
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 264,
+      "height": 460,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_817a844b55fb45e58c12592dcda1849c~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "White",
+        "Sleeve",
+        "Blue",
+        "Dress",
+        "Pattern",
+        "Polka dot",
+        "Day dress",
+        "Neck",
+        "Design"
+      ],
+      "refs": [
+
+      ],
+      "hash": "ea389fc9daf476ca7b1ac63aec751360",
+      "original_file_name": "20 final 14.jpg",
+      "file_size": 20164,
+      "icon_url": "media/59a7b9_817a844b55fb45e58c12592dcda1849c~mv2.jpg",
+      "file_url": "media/59a7b9_817a844b55fb45e58c12592dcda1849c~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhbgvQjEDgjIK0ZW1DfUoowiHMuOB3MrBu0jiAvYTAwCGlC5XHlte2jK5qgLJUXyeQ3s-ymBmeXJA9Dh4bBFujc5So4TaOrssv3mgzUIxq-RG-6UPU7ZA7IgW--klq8f8NGOmiDulZEg0k-6rd1r5C5fDg-7TmLm0YnNj9J5fSs4t0QRSl6DNCiZR9gevFFU5s0WgzGeepwc3CV6LCA2lqgnZV6Aq6BX2AD5t-1qEerz3vAFsxtSlG7zdqUtDfnuJWvsxpDTdHrXH_U4u8gD9FGudlvTwmtL44J0qnZ9IXPqQkkjGC-biKWdb3gMCfI5dX01ONL8l5Zfgj-bv9oV_yFWCr1k_rHeZTEpTcJLyrteCg",
+      "created_ts": 1599926030,
+      "modified_ts": 1599926030,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 235,
+            "g": 233,
+            "r": 235
+          },
+          {
+            "b": 68,
+            "g": 47,
+            "r": 57
+          },
+          {
+            "b": 162,
+            "g": 148,
+            "r": 150
+          },
+          {
+            "b": 71,
+            "g": 84,
+            "r": 135
+          },
+          {
+            "b": 110,
+            "g": 128,
+            "r": 166
+          },
+          {
+            "b": 165,
+            "g": 183,
+            "r": 225
+          },
+          {
+            "b": 135,
+            "g": 151,
+            "r": 195
+          },
+          {
+            "b": 140,
+            "g": 124,
+            "r": 108
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.989346444606781,
+            "height": 75,
+            "width": 54,
+            "x": 112,
+            "y": 4
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "White",
+            "score": 0.9594447612762451
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.9482546448707581
+          },
+          {
+            "description": "Blue",
+            "score": 0.9445302486419678
+          },
+          {
+            "description": "Dress",
+            "score": 0.9375910758972168
+          },
+          {
+            "description": "Pattern",
+            "score": 0.9366493225097656
+          },
+          {
+            "description": "Polka dot",
+            "score": 0.9036486148834229
+          },
+          {
+            "description": "Day dress",
+            "score": 0.86217200756073
+          },
+          {
+            "description": "Neck",
+            "score": 0.8062020540237427
+          },
+          {
+            "description": "Design",
+            "score": 0.8009169101715088
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 231,
+            "g": 230,
+            "r": 234
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 532,
+      "height": 800,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_0e2817532a0044c1bc8d7958ed06366d~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Day dress",
+        "Pink",
+        "Sleeve",
+        "Dress",
+        "Robe",
+        "Neck",
+        "Beige"
+      ],
+      "refs": [
+
+      ],
+      "hash": "1473ba6abcef5f2aca16e2d5271848ba",
+      "original_file_name": "20 final 15.jpg",
+      "file_size": 61155,
+      "icon_url": "media/59a7b9_0e2817532a0044c1bc8d7958ed06366d~mv2.jpg",
+      "file_url": "media/59a7b9_0e2817532a0044c1bc8d7958ed06366d~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhbTkbmrOkdD3xzDRYMGk4tcz19mlEW8yI3uRJ5aDvXywlcQfI052IVbMqbHFv6qZeruIwaophsjsMF6CNqouxapMcVQJ-07oRRLvT6u7LH5MlYy1KiGpn5C4cfWwc_-p2JIbuvb9VjIchNnrl0Rrumkiy7AyOBReGv03C6htbmmN17vANCQzlVj8EdKo3XUENDsnmZGjvR03SHGCmpxSlwN87g8H0Wl6PMfmFRZ2z25M7ohfH6ex3kS-f64FEjC7cgnE1PatMKA_Ne0BK8OgeHix9edLO4m9cNqGs9QWcJ7B4PZJXgHPNq3RiMyRBODlaLviAExM8X25NINoX_A4HOM3TO2C7xxO-W9SXk3MoVGVg",
+      "created_ts": 1599926027,
+      "modified_ts": 1599926027,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 154,
+            "g": 187,
+            "r": 218
+          },
+          {
+            "b": 24,
+            "g": 34,
+            "r": 50
+          },
+          {
+            "b": 60,
+            "g": 70,
+            "r": 146
+          },
+          {
+            "b": 242,
+            "g": 246,
+            "r": 248
+          },
+          {
+            "b": 94,
+            "g": 112,
+            "r": 171
+          },
+          {
+            "b": 61,
+            "g": 116,
+            "r": 137
+          },
+          {
+            "b": 101,
+            "g": 154,
+            "r": 187
+          },
+          {
+            "b": 98,
+            "g": 148,
+            "r": 145
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9992357492446899,
+            "height": 189,
+            "width": 135,
+            "x": 197,
+            "y": 5
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9463822841644287
+          },
+          {
+            "description": "Pink",
+            "score": 0.9359778761863708
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.9299108386039734
+          },
+          {
+            "description": "Dress",
+            "score": 0.9258834719657898
+          },
+          {
+            "description": "Robe",
+            "score": 0.8685262799263
+          },
+          {
+            "description": "Neck",
+            "score": 0.7371683716773987
+          },
+          {
+            "description": "Beige",
+            "score": 0.7371241450309753
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 144,
+            "g": 178,
+            "r": 210
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 750,
+      "height": 1012,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_e8f2b24bb73348ac9eae7e618c6d0da7~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Dress",
+        "Day dress",
+        "Orange",
+        "Sleeve",
+        "Fashion model",
+        "Peach",
+        "Neck",
+        "Shoulder",
+        "Cocktail dress"
+      ],
+      "refs": [
+
+      ],
+      "hash": "b921eef0195d6715f93dd7a5effc4584",
+      "original_file_name": "20 final 13.jpg",
+      "file_size": 114035,
+      "icon_url": "media/59a7b9_e8f2b24bb73348ac9eae7e618c6d0da7~mv2.jpg",
+      "file_url": "media/59a7b9_e8f2b24bb73348ac9eae7e618c6d0da7~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhYKdOq5jWWziNckY4U1oc2cAxK40VYG_MaTAX83Mb8U6w9xQHcZj1z8nesNgy7uGPecvgMgrklfCRMfzJUSftRmP5jcrhTMt-JFrMmFrxQUVIfxDX-fUjo3ydFtTI13DS9QWInvA_LTGfUMEJFJs68aof0LTA7-lNBguv5ABx6l8a4-Qp61_AR4MmvDcq6pf0TpyFk91ar19I1fmaIx-9nGWrnrD5Meyat8TYabFAi69jdYCPMgKz1SOkqMJ1PUHIl6WTn0zOvYV6lji2BRQ7jEQDQnbE3nBeMI7STN6wsG4wNyXWI-ftcGs-6GrRMWPEjqCxEi9wHAjY12PqLMLah8hfDiwoS1oHeKSIOf5CmuMw",
+      "created_ts": 1599926027,
+      "modified_ts": 1599926027,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 54,
+            "g": 69,
+            "r": 156
+          },
+          {
+            "b": 91,
+            "g": 119,
+            "r": 215
+          },
+          {
+            "b": 220,
+            "g": 226,
+            "r": 235
+          },
+          {
+            "b": 118,
+            "g": 140,
+            "r": 221
+          },
+          {
+            "b": 144,
+            "g": 174,
+            "r": 228
+          },
+          {
+            "b": 116,
+            "g": 100,
+            "r": 132
+          },
+          {
+            "b": 108,
+            "g": 116,
+            "r": 124
+          },
+          {
+            "b": 164,
+            "g": 164,
+            "r": 180
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9999583959579468,
+            "height": 241,
+            "width": 185,
+            "x": 226,
+            "y": 0
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Dress",
+            "score": 0.9598770141601562
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9586676359176636
+          },
+          {
+            "description": "Orange",
+            "score": 0.9522632956504822
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.9188843965530396
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.8771341443061829
+          },
+          {
+            "description": "Peach",
+            "score": 0.8764828443527222
+          },
+          {
+            "description": "Neck",
+            "score": 0.8752244114875793
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.8012816905975342
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.7667659521102905
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 54,
+            "g": 69,
+            "r": 156
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 750,
+      "height": 1012,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_07bcf397eb664646b485601212af9a56~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "White",
+        "Dress",
+        "Day dress",
+        "Sleeve",
+        "Fashion model",
+        "Shoulder",
+        "Waist",
+        "Neck",
+        "Joint"
+      ],
+      "refs": [
+
+      ],
+      "hash": "d2e9b8d9e940e59587e97b00a3b42f63",
+      "original_file_name": "20 final 12.jpg",
+      "file_size": 101594,
+      "icon_url": "media/59a7b9_07bcf397eb664646b485601212af9a56~mv2.jpg",
+      "file_url": "media/59a7b9_07bcf397eb664646b485601212af9a56~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhY44YbdfukDMngmNQOSV-tvQW9VBhmaXT_2X3tq5T6dkA_M2m0MvFs9voE_sPvlTV_RENsZLDP3SahPcnU36DTSuhZcsidhYyrZM6VsZTQWa2a7MoSnce-7Dul8JydKGvCxPyyJGJZTXC_1s7Eq_qpQojlO1J8fUY-zcgG9mwSmB5b56M3yYdBkuaHfO-PmHX6SVZ-GTfRtiw369EdyRb95eIt0L6DkfU1mdnhnVOhSCL4XalqU81lptv7RcCN8YK_gYpo8Eok7rcZyypWLWheClAM6eAxZHIM_EjctCEpVsbs-83AM64vl5JLiAnzOUf3j0sLOKvhcGo4Wev_-OIAiUuPjdqHwHtwKN_CsWrbFDQ",
+      "created_ts": 1599926026,
+      "modified_ts": 1599926026,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 218,
+            "g": 224,
+            "r": 233
+          },
+          {
+            "b": 53,
+            "g": 64,
+            "r": 104
+          },
+          {
+            "b": 127,
+            "g": 140,
+            "r": 179
+          },
+          {
+            "b": 94,
+            "g": 117,
+            "r": 165
+          },
+          {
+            "b": 149,
+            "g": 171,
+            "r": 207
+          },
+          {
+            "b": 172,
+            "g": 182,
+            "r": 209
+          },
+          {
+            "b": 111,
+            "g": 111,
+            "r": 113
+          },
+          {
+            "b": 168,
+            "g": 168,
+            "r": 171
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9997760653495789,
+            "height": 224,
+            "width": 169,
+            "x": 224,
+            "y": 0
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "White",
+            "score": 0.9781575798988342
+          },
+          {
+            "description": "Dress",
+            "score": 0.9529674053192139
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9503064751625061
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.9299108386039734
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9293661117553711
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.9209495186805725
+          },
+          {
+            "description": "Waist",
+            "score": 0.8920495510101318
+          },
+          {
+            "description": "Neck",
+            "score": 0.8811108469963074
+          },
+          {
+            "description": "Joint",
+            "score": 0.8318491578102112
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 212,
+            "g": 219,
+            "r": 230
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 750,
+      "height": 1010,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_a6eef11102da4154bea70e5eb3df3c89~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Dress",
+        "Fashion model",
+        "Day dress",
+        "Photo shoot",
+        "Purple",
+        "Cocktail dress",
+        "Fashion",
+        "Waist",
+        "Neck"
+      ],
+      "refs": [
+
+      ],
+      "hash": "167338715a5851a33ac60d493df5501a",
+      "original_file_name": "20 final 11.jpg",
+      "file_size": 109240,
+      "icon_url": "media/59a7b9_a6eef11102da4154bea70e5eb3df3c89~mv2.jpg",
+      "file_url": "media/59a7b9_a6eef11102da4154bea70e5eb3df3c89~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/Aha8TyHWKqYMgfP1lkmdnH_Y4yIoI-V6Rp_Waw4Siv79r7PaT5KwzhQewILnSiLn_RgTnkVSjVVfJoXwwe_aaD99B-s7GfxbI4kdHgJG0b9bUcyGZvKU9p66IND6SJ0QHAh8XRRGudUJzqoB-T-lbh4lwKlc3d80y6mQKDRoauBYxhemkA7itBtuV3dtxD71TKpiw6ELu6rNNxgf6g_fSJ782DBZDEgw6D5EAUfL2vxRafDZLyGMUm6HzFiqIHmikwwHyNYwbE723RKAfYlAI7vYE36Jc02qVdImFON_f8VAgIfRWUVv2RKhG_1-xCPkDMYblwBi2iehzTec9nO7ErSTWL6gHU7YshWAF5oLcXm-aQ",
+      "created_ts": 1599926021,
+      "modified_ts": 1599926021,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 41,
+            "g": 51,
+            "r": 70
+          },
+          {
+            "b": 80,
+            "g": 94,
+            "r": 135
+          },
+          {
+            "b": 226,
+            "g": 229,
+            "r": 234
+          },
+          {
+            "b": 97,
+            "g": 124,
+            "r": 168
+          },
+          {
+            "b": 139,
+            "g": 151,
+            "r": 199
+          },
+          {
+            "b": 130,
+            "g": 134,
+            "r": 154
+          },
+          {
+            "b": 153,
+            "g": 179,
+            "r": 219
+          },
+          {
+            "b": 92,
+            "g": 108,
+            "r": 108
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9999938011169434,
+            "height": 223,
+            "width": 172,
+            "x": 386,
+            "y": 0
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Dress",
+            "score": 0.9649757742881775
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9565760493278503
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9439836740493774
+          },
+          {
+            "description": "Photo shoot",
+            "score": 0.8651880025863647
+          },
+          {
+            "description": "Purple",
+            "score": 0.8638063073158264
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.8459572792053223
+          },
+          {
+            "description": "Fashion",
+            "score": 0.8184601068496704
+          },
+          {
+            "description": "Waist",
+            "score": 0.8176063299179077
+          },
+          {
+            "description": "Neck",
+            "score": 0.7676558494567871
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 41,
+            "g": 51,
+            "r": 70
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 750,
+      "height": 999,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_2adce601076f4452a68606341cc84a3b~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Dress",
+        "Pink",
+        "Fashion model",
+        "Shoulder",
+        "Gown",
+        "Strapless dress",
+        "Peach",
+        "Joint",
+        "Satin"
+      ],
+      "refs": [
+
+      ],
+      "hash": "f85a2a52ff84a870a136465e449f25b4",
+      "original_file_name": "20 final 9.jpg",
+      "file_size": 44160,
+      "icon_url": "media/59a7b9_2adce601076f4452a68606341cc84a3b~mv2.jpg",
+      "file_url": "media/59a7b9_2adce601076f4452a68606341cc84a3b~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/Aha0Buf40F0aYV409-cQ71ypc8UUQ_0iACXzdyQxQFMzkcsxKbAQp7w71c2klXT_gxmne1Y4EH4Kzdj7xJOywsyRwkJVy3FN0aFzhk8u5UQXD_h-K6ObFZsE0ek2NSYQGc5HmEgJUVvygCZBLG3x3cpwJH6YAzxpEnXD7qz3SsFag3rNASMMyaaPqKrImAsORux4I0TYUGML5jVyHIKvM4YQPWZCRyyXdYueToshBatAmzbOXGIF3xmuB5N8HoiC0NVc9f7jZxQSpQHvY4DIQYlnm-M8kYUixLn1cJWc0hCZVkKGVQcTc20b47mSjO49XsLcKElf0huXE-zXoNf9ikj3DD0hYcL2DHFHk_5rk-nwTQ",
+      "created_ts": 1599926019,
+      "modified_ts": 1599926019,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 235,
+            "g": 237,
+            "r": 244
+          },
+          {
+            "b": 31,
+            "g": 41,
+            "r": 67
+          },
+          {
+            "b": 149,
+            "g": 162,
+            "r": 222
+          },
+          {
+            "b": 79,
+            "g": 99,
+            "r": 165
+          },
+          {
+            "b": 165,
+            "g": 187,
+            "r": 240
+          },
+          {
+            "b": 108,
+            "g": 135,
+            "r": 203
+          },
+          {
+            "b": 135,
+            "g": 143,
+            "r": 165
+          },
+          {
+            "b": 184,
+            "g": 187,
+            "r": 199
+          }
+        ],
+        "explicit_content": [
+          {
+            "likelihood": "POSSIBLE",
+            "name": "racy"
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9999754428863525,
+            "height": 155,
+            "width": 132,
+            "x": 334,
+            "y": 0
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9824311137199402
+          },
+          {
+            "description": "Dress",
+            "score": 0.9754076600074768
+          },
+          {
+            "description": "Pink",
+            "score": 0.957579493522644
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9507444500923157
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.945270836353302
+          },
+          {
+            "description": "Gown",
+            "score": 0.8921659588813782
+          },
+          {
+            "description": "Strapless dress",
+            "score": 0.8729645609855652
+          },
+          {
+            "description": "Peach",
+            "score": 0.856986403465271
+          },
+          {
+            "description": "Joint",
+            "score": 0.8023731708526611
+          },
+          {
+            "description": "Satin",
+            "score": 0.7779681086540222
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 225,
+            "g": 228,
+            "r": 242
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 564,
+      "height": 761,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_b0af75e1b7e14df688bf9fb701e3a921~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Dress",
+        "Day dress",
+        "White",
+        "Fashion model",
+        "Cocktail dress",
+        "Neck",
+        "One-piece garment",
+        "Waist",
+        "Fashion"
+      ],
+      "refs": [
+
+      ],
+      "hash": "08cbf6ba43fa5092038c9fd175803070",
+      "original_file_name": "20 final 10.jpg",
+      "file_size": 65142,
+      "icon_url": "media/59a7b9_b0af75e1b7e14df688bf9fb701e3a921~mv2.jpg",
+      "file_url": "media/59a7b9_b0af75e1b7e14df688bf9fb701e3a921~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhYnPsp-JRPz2DFxsO4qge37XX9oS2U1UbnBNS0OPNeBf4DYYd4ZrTusmDhwoM1EqRv0Mk_bvGbiUThhBRgc4kG2G_6Db4MoLwzoNDg6Pw9zbQKpvx7HXWVgiR7Ka33eBIpTqra4RMnKClKlqfN9EYfaN9U-WrOrSZ6vQgsvfVXe5l59n7qfYOZzQZwj6ri3RJsiZayLp-sHbU_oQXoaM4SP4rAOTA_b8-y2yuuDPac1ALrNIWQUVZnIWUMkR3Ghfpldrmzfcr5wpilwoTp9vwVBDnTsqiivSTbOpQNwiIc2yjydE5d0X4ktfUiXG25I5HYtnMfMBJTPZjUuPyufpTfQ-aIPfSr3oKc3nbcVkfwgDw",
+      "created_ts": 1599926016,
+      "modified_ts": 1599926016,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 234,
+            "g": 233,
+            "r": 234
+          },
+          {
+            "b": 65,
+            "g": 48,
+            "r": 47
+          },
+          {
+            "b": 74,
+            "g": 92,
+            "r": 151
+          },
+          {
+            "b": 99,
+            "g": 126,
+            "r": 191
+          },
+          {
+            "b": 163,
+            "g": 143,
+            "r": 138
+          },
+          {
+            "b": 125,
+            "g": 147,
+            "r": 204
+          },
+          {
+            "b": 157,
+            "g": 179,
+            "r": 213
+          },
+          {
+            "b": 156,
+            "g": 132,
+            "r": 108
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9991328120231628,
+            "height": 115,
+            "width": 82,
+            "x": 199,
+            "y": 18
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Dress",
+            "score": 0.9818280339241028
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9809591174125671
+          },
+          {
+            "description": "White",
+            "score": 0.9654507637023926
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9232807159423828
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.8774913549423218
+          },
+          {
+            "description": "Neck",
+            "score": 0.8576119542121887
+          },
+          {
+            "description": "One-piece garment",
+            "score": 0.8533193469047546
+          },
+          {
+            "description": "Waist",
+            "score": 0.8390207290649414
+          },
+          {
+            "description": "Fashion",
+            "score": 0.8057913780212402
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 231,
+            "g": 230,
+            "r": 233
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 480,
+      "height": 736,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_3ea145817ef54d9a8321fd080eda5c36~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Sleeve",
+        "Shoulder",
+        "Violet",
+        "Purple",
+        "Blouse",
+        "Neck",
+        "Top",
+        "Pattern",
+        "Lilac"
+      ],
+      "refs": [
+
+      ],
+      "hash": "e8785d56d16b00ea830f30aea72c2dfb",
+      "original_file_name": "20 final 8.jpg",
+      "file_size": 39544,
+      "icon_url": "media/59a7b9_3ea145817ef54d9a8321fd080eda5c36~mv2.jpg",
+      "file_url": "media/59a7b9_3ea145817ef54d9a8321fd080eda5c36~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhZP1g62_9B0LF732WRGIZ2v0AYRYyinjU9AU2dooGd4A-nZMRaHFKL_A4UiCwFVdYQJ_ROrmUMgJU56zLhRSGeDywqkr-fgjkSygFDa8gsqz0VedC-isTiNXB4I9B0Y5LMnWJq3pSUIR_urfGVdSWYZxgl6HOTzix74NSsLA6xNKb7-KEN51MVPTL9RWKBpWtEbhRsd-6kn8TOTZLaj3WJfPNHOMREYLwC-ZsW0f4I0cmQ21wH8tVMRYDosRnVTHfgYuMwt1bUIFexQ30q-7Qf5k1r7A9A1omMh-zyJvdbKIAQo3JEt2Ixg66Da2K32S8bF_BQOiRnX2XPZObV4boQ9scSdm69DR36FqlfmuGy6WQ",
+      "created_ts": 1599926014,
+      "modified_ts": 1599926014,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 212,
+            "g": 213,
+            "r": 230
+          },
+          {
+            "b": 90,
+            "g": 62,
+            "r": 65
+          },
+          {
+            "b": 30,
+            "g": 28,
+            "r": 38
+          },
+          {
+            "b": 120,
+            "g": 115,
+            "r": 141
+          },
+          {
+            "b": 183,
+            "g": 150,
+            "r": 152
+          },
+          {
+            "b": 189,
+            "g": 164,
+            "r": 163
+          },
+          {
+            "b": 83,
+            "g": 105,
+            "r": 175
+          },
+          {
+            "b": 143,
+            "g": 116,
+            "r": 115
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.9587498307228088
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.9107357263565063
+          },
+          {
+            "description": "Violet",
+            "score": 0.9048905372619629
+          },
+          {
+            "description": "Purple",
+            "score": 0.8638063073158264
+          },
+          {
+            "description": "Blouse",
+            "score": 0.8587156534194946
+          },
+          {
+            "description": "Neck",
+            "score": 0.8352606296539307
+          },
+          {
+            "description": "Top",
+            "score": 0.8288195133209229
+          },
+          {
+            "description": "Pattern",
+            "score": 0.8077419400215149
+          },
+          {
+            "description": "Lilac",
+            "score": 0.8002508878707886
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 92,
+            "g": 66,
+            "r": 70
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 453,
+      "height": 750,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_8e56e064d7a1465ca8fcd1336dd1ee99~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Yellow",
+        "Dress",
+        "Day dress",
+        "Cocktail dress",
+        "Footwear",
+        "Shoulder",
+        "Fashion",
+        "Electric blue",
+        "Waist"
+      ],
+      "refs": [
+
+      ],
+      "hash": "1d1a2a1c26f6614b49f3adb339d1954e",
+      "original_file_name": "20 final 7.jpg",
+      "file_size": 94647,
+      "icon_url": "media/59a7b9_8e56e064d7a1465ca8fcd1336dd1ee99~mv2.jpg",
+      "file_url": "media/59a7b9_8e56e064d7a1465ca8fcd1336dd1ee99~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/Ahb_3b6mOsqyXdV7hkmQbimZ6N8W2YXTFXtXJijibu6QQyWMsGlEQ5bmb6J_aF0bM76obq5PXrKHTMLk_8U1l3cvsG2D_v2FAZJLjZtOmeA2yv65dMh2WqIcxMghgQ9gRCTb0vkcl14YMYoW8oCs5VeM8NbkMiMOfkCFZK0krwKX-e251FcakHw7dDFuBh8ejp5kekKGB41v2Jbd8dymXNMfAdz-IqL0elVtD1E5rhJCjIS06CM-UNXBAcFxwzmorO7CL_asN59COKxbySHyBj0mqD6cfVbQoCCCTQ9xtTrq-zhIzSBEEkhnWPiHNIU7P6SuTtqZyd3eeUlUCXd5YXbfK_9kw33Kp6MTbowYS5hjPA",
+      "created_ts": 1599926012,
+      "modified_ts": 1599926012,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 56,
+            "g": 166,
+            "r": 201
+          },
+          {
+            "b": 15,
+            "g": 56,
+            "r": 43
+          },
+          {
+            "b": 62,
+            "g": 105,
+            "r": 95
+          },
+          {
+            "b": 28,
+            "g": 45,
+            "r": 91
+          },
+          {
+            "b": 185,
+            "g": 194,
+            "r": 211
+          },
+          {
+            "b": 139,
+            "g": 171,
+            "r": 184
+          },
+          {
+            "b": 84,
+            "g": 239,
+            "r": 236
+          },
+          {
+            "b": 38,
+            "g": 93,
+            "r": 153
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9981753826141357,
+            "height": 125,
+            "width": 90,
+            "x": 211,
+            "y": 28
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9843478798866272
+          },
+          {
+            "description": "Yellow",
+            "score": 0.9698858857154846
+          },
+          {
+            "description": "Dress",
+            "score": 0.9611022472381592
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9287530183792114
+          },
+          {
+            "description": "Cocktail dress",
+            "score": 0.8717038035392761
+          },
+          {
+            "description": "Footwear",
+            "score": 0.8162633180618286
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.8012816905975342
+          },
+          {
+            "description": "Fashion",
+            "score": 0.7771079540252686
+          },
+          {
+            "description": "Electric blue",
+            "score": 0.7247074842453003
+          },
+          {
+            "description": "Waist",
+            "score": 0.7085345983505249
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 72,
+            "g": 174,
+            "r": 201
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 480,
+      "height": 736,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_c23be093845c44b1b1ec48be22a9d19e~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Sleeve",
+        "White",
+        "Blue",
+        "Denim",
+        "Shirt",
+        "Button",
+        "Blouse",
+        "Lavender",
+        "Top"
+      ],
+      "refs": [
+
+      ],
+      "hash": "baaed31c6b074425fd52c6aa50a8884e",
+      "original_file_name": "20 final 5.jpg",
+      "file_size": 37426,
+      "icon_url": "media/59a7b9_c23be093845c44b1b1ec48be22a9d19e~mv2.jpg",
+      "file_url": "media/59a7b9_c23be093845c44b1b1ec48be22a9d19e~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhYOj4IX3dAyH3ujFgVcmBFWgSvDlIB3e5kiDQYqkZefrsCy0dK-YSNXpgZm2xx4rTAsY7DXIPWJHHACTNKnNfsD7Ffb4ZIvoHfaC01upfi766hiaERaZ_JveTwW63BX28hBRaOxg51FnyVgv4bfQDrPhu_cXeK3bhDlapzytc6i2dScnMWz0wTtf8g4hIK69ClHKQnL3pMbnhp9TwK5b59UAHuTOwOTdl5Zl0qpWFmfQW5Dg5AhUMoBPQnIP4CAnPAGQ0JplEMZdPcO6A6byX8EOjuNhA8sCMvTFemJP16dxVoh3-GLmdozmk5mQOD3oDJgINPaws4Rur38Vfcjb1WRNcuPF80pM94MxD2PjuSF5w",
+      "created_ts": 1599926010,
+      "modified_ts": 1599926010,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 224,
+            "g": 209,
+            "r": 208
+          },
+          {
+            "b": 58,
+            "g": 68,
+            "r": 100
+          },
+          {
+            "b": 85,
+            "g": 112,
+            "r": 157
+          },
+          {
+            "b": 140,
+            "g": 129,
+            "r": 140
+          },
+          {
+            "b": 143,
+            "g": 166,
+            "r": 214
+          },
+          {
+            "b": 179,
+            "g": 152,
+            "r": 144
+          },
+          {
+            "b": 186,
+            "g": 161,
+            "r": 160
+          },
+          {
+            "b": 124,
+            "g": 103,
+            "r": 97
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.9634023308753967
+          },
+          {
+            "description": "White",
+            "score": 0.9628557562828064
+          },
+          {
+            "description": "Blue",
+            "score": 0.926959753036499
+          },
+          {
+            "description": "Denim",
+            "score": 0.8767353296279907
+          },
+          {
+            "description": "Shirt",
+            "score": 0.876211941242218
+          },
+          {
+            "description": "Button",
+            "score": 0.8374944925308228
+          },
+          {
+            "description": "Blouse",
+            "score": 0.8349857330322266
+          },
+          {
+            "description": "Lavender",
+            "score": 0.8219549059867859
+          },
+          {
+            "description": "Top",
+            "score": 0.8019934892654419
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 218,
+            "g": 204,
+            "r": 205
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 480,
+      "height": 736,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_65e76ea1bdca46dfb27bfbb8464bfbc7~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Sleeve",
+        "Blue",
+        "Turquoise",
+        "Neck",
+        "Aqua",
+        "Beige",
+        "Brown",
+        "Blouse",
+        "Top"
+      ],
+      "refs": [
+
+      ],
+      "hash": "ee0abe2001322bef6008b560c0b5bd08",
+      "original_file_name": "20 final 6.jpg",
+      "file_size": 67762,
+      "icon_url": "media/59a7b9_65e76ea1bdca46dfb27bfbb8464bfbc7~mv2.jpg",
+      "file_url": "media/59a7b9_65e76ea1bdca46dfb27bfbb8464bfbc7~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhY8cNH6VG4wx6vxDydAhJ0_D2n7unt6BCPeSq-S_BcRA7bxplm4SClLMKHL1DDGew2DhtsWcmgObbSkrFE-qIGbSB2IRmcnVg6jT9os4Qfvabc0QROscorAj2lHyr0awGri-U0Jrty744klnGFGjo5_PJ_ieGWPhCODq9csqktn4bggINJgWsm_4DMdmhXnjFGLnMBw_FwujUvVDJ4J7XLNxmpJ61vtihB2gZMvS2hPWhj-oTE85b8oKqGiFrfwbI3Buzgc-oDl6-lTYjm4HBFhdmFASJo1v3fMtCKxz89n6-c1NrhXUtp1Pq67s5FrFiZuNIAIHfYB5HS-QE6L5AHBJnWr0BxnDPJzbRpHZTWFuA",
+      "created_ts": 1599926009,
+      "modified_ts": 1599926009,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 136,
+            "g": 122,
+            "r": 112
+          },
+          {
+            "b": 194,
+            "g": 205,
+            "r": 228
+          },
+          {
+            "b": 81,
+            "g": 64,
+            "r": 49
+          },
+          {
+            "b": 157,
+            "g": 160,
+            "r": 179
+          },
+          {
+            "b": 71,
+            "g": 63,
+            "r": 75
+          },
+          {
+            "b": 212,
+            "g": 202,
+            "r": 187
+          },
+          {
+            "b": 207,
+            "g": 183,
+            "r": 167
+          },
+          {
+            "b": 67,
+            "g": 78,
+            "r": 100
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.945728063583374
+          },
+          {
+            "description": "Blue",
+            "score": 0.9445302486419678
+          },
+          {
+            "description": "Turquoise",
+            "score": 0.8958932757377625
+          },
+          {
+            "description": "Neck",
+            "score": 0.863335907459259
+          },
+          {
+            "description": "Aqua",
+            "score": 0.8617390394210815
+          },
+          {
+            "description": "Beige",
+            "score": 0.8532955646514893
+          },
+          {
+            "description": "Brown",
+            "score": 0.8426409363746643
+          },
+          {
+            "description": "Blouse",
+            "score": 0.8331356048583984
+          },
+          {
+            "description": "Top",
+            "score": 0.7883236408233643
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 143,
+            "g": 132,
+            "r": 127
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 750,
+      "height": 873,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_f2a6aa1a58e5419d8da97659aec8d255~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Green",
+        "Waist",
+        "Trousers",
+        "Neck",
+        "Sleeve",
+        "Blouse"
+      ],
+      "refs": [
+
+      ],
+      "hash": "38de30779a3467838d9afe944cd791e8",
+      "original_file_name": "20 final 1.jpg",
+      "file_size": 31400,
+      "icon_url": "media/59a7b9_f2a6aa1a58e5419d8da97659aec8d255~mv2.jpg",
+      "file_url": "media/59a7b9_f2a6aa1a58e5419d8da97659aec8d255~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/Ahb6BXRPfE9sQ5HnSYMH-HTFgIko09XFHLmhMoQ-k4Y8sVQA-6xl6-3_0I3dwqGvsLmRjligBmHBHzA-Arp2MEMmnnI2DV9OUVExCBMYuNoAxyE2beogD_m3pph4VY9q9GPc5KfksAGeti0gG-abacuw7NatsuZfrjY9dhvPtIS0xCc2vW7LHj9kH4ekwcxPR0Il9OAGnzvjutU41Gw3nucAbBo34nWh6W5RlF26d9OqsKOF-3Rp_AAH-hb3Yeo7Hxyvj5xPe_UBn5GNF4AKlZQbBsGtIrx2wNYHdYtYM0_YMh0kp3r2AIGwAnw2b35kC8Gpw_ZqWiygimlHAnr9yNPpYzyxyuqRc9sS0S3GggNp9Q",
+      "created_ts": 1599926006,
+      "modified_ts": 1599926006,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 67,
+            "g": 73,
+            "r": 54
+          },
+          {
+            "b": 236,
+            "g": 237,
+            "r": 237
+          },
+          {
+            "b": 73,
+            "g": 98,
+            "r": 150
+          },
+          {
+            "b": 100,
+            "g": 135,
+            "r": 193
+          },
+          {
+            "b": 146,
+            "g": 151,
+            "r": 151
+          },
+          {
+            "b": 138,
+            "g": 161,
+            "r": 208
+          },
+          {
+            "b": 124,
+            "g": 132,
+            "r": 108
+          },
+          {
+            "b": 160,
+            "g": 182,
+            "r": 210
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9968423843383789,
+            "height": 151,
+            "width": 108,
+            "x": 332,
+            "y": 24
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Green",
+            "score": 0.928557813167572
+          },
+          {
+            "description": "Waist",
+            "score": 0.8268998265266418
+          },
+          {
+            "description": "Trousers",
+            "score": 0.7746427059173584
+          },
+          {
+            "description": "Neck",
+            "score": 0.7371683716773987
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.7367157340049744
+          },
+          {
+            "description": "Blouse",
+            "score": 0.7114849090576172
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 67,
+            "g": 73,
+            "r": 54
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 750,
+      "height": 1010,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_7d910ab09690400babd472803dbe0525~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Black",
+        "Blue",
+        "Outerwear",
+        "Photo shoot",
+        "Teal",
+        "Blazer",
+        "Turquoise",
+        "Jacket",
+        "Photography"
+      ],
+      "refs": [
+
+      ],
+      "hash": "0b908fb1d5fcfcca03bbb86003c07745",
+      "original_file_name": "20 final 4.jpg",
+      "file_size": 54436,
+      "icon_url": "media/59a7b9_7d910ab09690400babd472803dbe0525~mv2.jpg",
+      "file_url": "media/59a7b9_7d910ab09690400babd472803dbe0525~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/Aha3G38qwlNSQFbW6eusC1EUg1P0KUDFtgd-DoVvq3XNt8bM81HT85q-GJWe1fEk1g8IlQPq7QSfnTV4sHtdHY__EfYjSEHQZbDdjQhyzkGYqv-wcfT_Ff0f5W5HAcQlnZJvmgnW5XDevG5dM5eM2tKJ6RBpe1K8MGGwHsQjv6X8Xb2HN4x6_pNeVedM4IOhe3nbWQKF5kPtOLQ1CGyjE0X70ZOkbLcVwRNTuvkIZXoIQZQSzPxFAgwiiy9YI38P1leuo6SY28G3ufRyehsXorrxAOvsMQ4ji9_tGn-3evvw9KX94Ww-msGhQzCS6rwXa4aIvAEmU_IASXX8q7DbDu_E7RDO9HY3RTIprkfW_Ujn4g",
+      "created_ts": 1599926006,
+      "modified_ts": 1599926006,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 31,
+            "g": 29,
+            "r": 18
+          },
+          {
+            "b": 236,
+            "g": 232,
+            "r": 230
+          },
+          {
+            "b": 65,
+            "g": 88,
+            "r": 138
+          },
+          {
+            "b": 96,
+            "g": 128,
+            "r": 185
+          },
+          {
+            "b": 125,
+            "g": 154,
+            "r": 207
+          },
+          {
+            "b": 147,
+            "g": 178,
+            "r": 229
+          },
+          {
+            "b": 140,
+            "g": 140,
+            "r": 140
+          },
+          {
+            "b": 132,
+            "g": 124,
+            "r": 100
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9997935891151428,
+            "height": 262,
+            "width": 187,
+            "x": 322,
+            "y": 28
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9766733646392822
+          },
+          {
+            "description": "Black",
+            "score": 0.9599247574806213
+          },
+          {
+            "description": "Blue",
+            "score": 0.957834005355835
+          },
+          {
+            "description": "Outerwear",
+            "score": 0.9391523599624634
+          },
+          {
+            "description": "Photo shoot",
+            "score": 0.9045717716217041
+          },
+          {
+            "description": "Teal",
+            "score": 0.8668915629386902
+          },
+          {
+            "description": "Blazer",
+            "score": 0.8668032288551331
+          },
+          {
+            "description": "Turquoise",
+            "score": 0.8253499865531921
+          },
+          {
+            "description": "Jacket",
+            "score": 0.8238406181335449
+          },
+          {
+            "description": "Photography",
+            "score": 0.7940416932106018
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 230,
+            "g": 228,
+            "r": 229
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 750,
+      "height": 750,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_07052ee0f70f48d9a956fb9553a50d80~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Fashion model",
+        "Day dress",
+        "Yellow",
+        "Dress",
+        "Shoulder",
+        "Waist",
+        "Orange",
+        "Neck",
+        "Sleeve"
+      ],
+      "refs": [
+
+      ],
+      "hash": "a3f933e7d8429ff3c38c2053e3df4623",
+      "original_file_name": "20 final 3.jpg",
+      "file_size": 63347,
+      "icon_url": "media/59a7b9_07052ee0f70f48d9a956fb9553a50d80~mv2.jpg",
+      "file_url": "media/59a7b9_07052ee0f70f48d9a956fb9553a50d80~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhYrJ-iORMcMC5dOq-ZFx-lK5MEVhRTA0-sNME3XHN9q_9HTMI7-03SoA14qCaACwJH1tn-OsxSk_Nc-Tdj2KTER2IDLX4s_ND80qtjJBWkACVaYkKPOFNkC1npB1G138ba1Vcsw5xtQpsc9X0tzv4vy-QGzzTZOe_qS-7cyZgxglqgY2PMjpTIFoxsydrGhxZcnH-fzUr2oyLvqIxZL-5S1s1tda2Rq10DKiqJG4jV2Dwp6TsWpmiSyS2aUAc4A7kbSvjLWw4uP23D9onDfe6mVHcZa0QX8rhsr2WxgG98hM-UGCdVF9dtp5x8oXUzfPGwmmRyyLI0F3bIhsCHDbdo-kh6nyG8zLgJ-H7IpINHvZw",
+      "created_ts": 1599926004,
+      "modified_ts": 1599926004,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 143,
+            "g": 164,
+            "r": 201
+          },
+          {
+            "b": 28,
+            "g": 138,
+            "r": 214
+          },
+          {
+            "b": 27,
+            "g": 58,
+            "r": 133
+          },
+          {
+            "b": 10,
+            "g": 22,
+            "r": 64
+          },
+          {
+            "b": 79,
+            "g": 102,
+            "r": 174
+          },
+          {
+            "b": 183,
+            "g": 214,
+            "r": 251
+          },
+          {
+            "b": 74,
+            "g": 92,
+            "r": 134
+          },
+          {
+            "b": 198,
+            "g": 190,
+            "r": 249
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9994876384735107,
+            "height": 155,
+            "width": 110,
+            "x": 344,
+            "y": 2
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9855565428733826
+          },
+          {
+            "description": "Day dress",
+            "score": 0.9785985350608826
+          },
+          {
+            "description": "Yellow",
+            "score": 0.956876277923584
+          },
+          {
+            "description": "Dress",
+            "score": 0.9552035331726074
+          },
+          {
+            "description": "Shoulder",
+            "score": 0.9438497424125671
+          },
+          {
+            "description": "Waist",
+            "score": 0.8951209187507629
+          },
+          {
+            "description": "Orange",
+            "score": 0.8937656879425049
+          },
+          {
+            "description": "Neck",
+            "score": 0.8811108469963074
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.8744936585426331
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 141,
+            "g": 162,
+            "r": 200
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    },
+    {
+      "width": 347,
+      "height": 500,
+      "parent_folder_id": "99b8036582124596a4365ac27e609e31",
+      "file_name": "59a7b9_a0a49fc60bfc4ea9a212a9231f7da942~mv2.jpg",
+      "media_type": "picture",
+      "tags": [
+        "_fileOrigin_dropbox"
+      ],
+      "labels": [
+        "Clothing",
+        "Dress",
+        "Fashion model",
+        "Maroon",
+        "Day dress",
+        "Sleeve",
+        "Neck",
+        "Magenta",
+        "Footwear",
+        "Pattern"
+      ],
+      "refs": [
+
+      ],
+      "hash": "9070ff49dd0403c59967b94d22debdbe",
+      "original_file_name": "20 final 2.jpg",
+      "file_size": 24766,
+      "icon_url": "media/59a7b9_a0a49fc60bfc4ea9a212a9231f7da942~mv2.jpg",
+      "file_url": "media/59a7b9_a0a49fc60bfc4ea9a212a9231f7da942~mv2.jpg",
+      "mime_type": "image/jpeg",
+      "source_url": "https://content.dropboxapi.com/apitl/1/AhaSwQieBzRM3ghfJwo1bMy3gUV28hunUuS37lTN0ZJW7jOjIgbRjmv4vv2hLMRJHe_q6iKIxMsz03GPzFtuIzDLyFoK5FL_Weoq7J7KxH9CL4-qoKT3hfynWhTcJK-9MWydVSJYxax6MsgwKWL8uJu5BBpfIRkqS7602tpTFCOP-FRgZ-JZRyTqtxeKcOmQcwy6gijJdyB1G-T5W21yoSj0FMnUWC_FaCCtSwfd0Oz-ayV58cPDcUrwGFLSyqnPymgF6Y2GWh8lzbeb-HjcCB18jVu5iPhlUHBOPffpYyfWVI41oVKSFheIq4qVQxY5GHExe4ukRNFYx3ez9njbYrDwprZ1SFtjy-_6RU1URoraAg",
+      "created_ts": 1599926003,
+      "modified_ts": 1599926003,
+      "op_status": "READY",
+      "file_input": {
+        "color_palette": [
+          {
+            "b": 224,
+            "g": 232,
+            "r": 241
+          },
+          {
+            "b": 64,
+            "g": 59,
+            "r": 142
+          },
+          {
+            "b": 137,
+            "g": 156,
+            "r": 210
+          },
+          {
+            "b": 40,
+            "g": 37,
+            "r": 49
+          },
+          {
+            "b": 109,
+            "g": 117,
+            "r": 180
+          },
+          {
+            "b": 183,
+            "g": 174,
+            "r": 245
+          },
+          {
+            "b": 133,
+            "g": 123,
+            "r": 219
+          },
+          {
+            "b": 134,
+            "g": 126,
+            "r": 196
+          }
+        ],
+        "face": [
+          {
+            "confidence": 0.9746877551078796,
+            "height": 77,
+            "width": 55,
+            "x": 152,
+            "y": 8
+          }
+        ],
+        "label": [
+          {
+            "description": "Clothing",
+            "score": 0.9908332824707031
+          },
+          {
+            "description": "Dress",
+            "score": 0.952416181564331
+          },
+          {
+            "description": "Fashion model",
+            "score": 0.9482434391975403
+          },
+          {
+            "description": "Maroon",
+            "score": 0.9071324467658997
+          },
+          {
+            "description": "Day dress",
+            "score": 0.8499883413314819
+          },
+          {
+            "description": "Sleeve",
+            "score": 0.8365160822868347
+          },
+          {
+            "description": "Neck",
+            "score": 0.7676558494567871
+          },
+          {
+            "description": "Magenta",
+            "score": 0.7516247034072876
+          },
+          {
+            "description": "Footwear",
+            "score": 0.7294876575469971
+          },
+          {
+            "description": "Pattern",
+            "score": 0.724505603313446
+          }
+        ],
+        "prominent_color": [
+          {
+            "b": 77,
+            "g": 74,
+            "r": 154
+          }
+        ]
+      },
+      "site_id": "1a9a8234-ab72-4532-a537-692bfa72a490",
+      "user_id": "59a7b9c6-cd39-4e51-a034-6b31982bd4a4",
+      "app_id": "3290098596962326"
+    }
+  ],
+  "cursor": ""
+}
